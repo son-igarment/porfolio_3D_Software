@@ -1,7 +1,9 @@
 {
-  "name": "3dfolio",
+  "name": "pham-le-ngoc-son-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "Phạm Lê Ngọc Sơn",
+  "description": "Phạm Lê Ngọc Sơn's 3D Portfolio Website",
   "type": "module",
   "scripts": {
     "dev": "vite",
